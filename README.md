@@ -85,4 +85,7 @@ Geographic Strategy: California and Nevada show strong financial participation�
 
 Marketing Optimization: Campaigns can align with high-engagement months (April–October) for maximum traction.
 
+## 📊 Snapshot of Dashboard
+![Dashboard Preview](https://github.com/Praful1298/Power_BI_Customer_Debt_Analysis/blob/main/American_Bank_Debt_Analysis_Snaphot.png)
+
 
